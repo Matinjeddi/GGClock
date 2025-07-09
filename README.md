@@ -4,22 +4,22 @@ A backgammon clock and scoreboard Android app built with Kotlin and Jetpack Comp
 
 ## Features
 
-- **Dual Timer System**: Per-move delay timer (5-12 seconds) and main clock (2-20 minutes)
+- **Dual Timer System**: Per-move delay timer (6-20 seconds) and main clock (1-50 minutes)
 - **Score Tracking**: Visual score display with increment/decrement buttons
 - **Game Configuration**: Settings for number of games (odd numbers 3-25), timer durations, and starting player
-- **Modern UI**: Dark theme with green/red player colors and intuitive controls
+- **Modern UI**: Dark theme with orange/blue player colors and intuitive controls
 
 ## How to Use
 
 ### Settings Tab
 1. **Number of Games**: Select from odd numbers 3-25
-2. **Delay Timer**: Set per-move delay (5-12 seconds)
-3. **Main Clock**: Set main time limit (2-20 minutes)
+2. **Delay Timer**: Set per-move delay (6-20 seconds)
+3. **Main Clock**: Set main time limit (1-50 minutes)
 4. **Starting Player**: Choose which player starts first
 
 ### Game Tab
 1. **Start Game**: Press START to begin with configured settings
-2. **Player Turns**: Press the active player's blue button to end your turn
+2. **Player Turns**: Press the active player's timer to end your turn
 3. **Timer Logic**: 
    - Each turn starts with the delay timer
    - If delay expires, main clock starts counting down
