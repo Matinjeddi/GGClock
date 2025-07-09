@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color dark_blue
+color green
+color light_blue
+color red
+color surface
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string delay_timer
+string main_clock
+string number_of_games
+string player_left
+string player_right
+string reset
+string settings
+string start
+string starting_player
+style Theme.GammaGammonClock
+xml backup_rules
+xml data_extraction_rules

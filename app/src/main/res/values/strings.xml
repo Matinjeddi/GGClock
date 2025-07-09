@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GammaGammonClock</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="settings">Settings</string>
+    <string name="number_of_games">Number of Games</string>
+    <string name="delay_timer">Delay Timer</string>
+    <string name="main_clock">Main Clock (minutes)</string>
+    <string name="starting_player">Starting Player</string>
+    <string name="player_left">Left Player</string>
+    <string name="player_right">Right Player</string>
+</resources> 
